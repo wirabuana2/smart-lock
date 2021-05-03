@@ -1,0 +1,29 @@
+==================================================================================
+NODEMCU KE RFID MFRC
+pin SDA ke D3
+pin SCK ke D5
+pin MOSI ke D7
+pin MISO ke D6
+pin IRQ diabaikan
+pin GND ke GND
+pin RST ke D4
+pin VCC ke 3V3
+
+NODEMCU KE RELAY 2 channel 
+pin IN1 ke D0
+pin GND ke GND
+pin VCC ke 5volt(VIN)
+
+NODEMCU KE LCD 16X2 dengan modul i2c
+pin GND ke GND
+pin VCC ke 5V/3V
+pin SDA ke D2
+Pin SCL ke D1
+
+===================================================================================
+
+===================================================================================
+Board yang digunakan = esp8226 (nodemcu1.0 ESP-12E Modul)
+Upload speed = 115200
+preference = http://arduino.esp8266.com/stable/package_esp8266com_index.json
+===================================================================================
